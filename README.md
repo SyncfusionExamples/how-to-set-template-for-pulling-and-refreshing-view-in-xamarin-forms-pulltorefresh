@@ -1,6 +1,6 @@
 # How-to-set-template-for-pulling-and-refreshing-view-in-xamarin-forms-pulltorefresh
 
-This app implements to set template for pulling and refreshing the view in SfPullToRefresh. You can customize the template based on the requirement and can set template using SfPullToRefresh.PullingViewTemplate and SfPullToRefresh.RefreshingViewTemplate.
+This app implements to set template for pulling and refreshing view in SfPullToRefresh. You can customize the template based on the requirement and can set template using SfPullToRefresh.PullingViewTemplate and SfPullToRefresh.RefreshingViewTemplate.
 
 ## Syncfusion Controls
 
